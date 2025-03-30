@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aadarsh ranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aadarsh Ranjan</h1>
+<h3 align="center">A passionate frontend  and tester from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arnab-senapati&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-senapati" />
+  <img src="https://komarev.com/ghpvc/?username=aadarsh8434&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh8434" />
 </p>
+
 <table>
   <tr>
     <td>
@@ -19,7 +20,8 @@
   </tr>
 </table>
 
- <table>
+<table>
+  <tr>
     <td valign="top">
       <h3 align="center">Connect with me</h3>
       <p align="right">
@@ -32,6 +34,9 @@
         <a href="https://www.leetcode.com/Aadarsh_10" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aadarsh ranjan" height="30" width="40" />
         </a>
+    <a href="https://www.naukri.com/code360/profile/Aadarsh_123" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Naukri.com_logo.svg/2560px-Naukri.com_logo.svg.png" alt="coding ninjas" height="30" width="40" />
+</a>
       </p>
     </td>
     <td valign="top">
@@ -63,19 +68,18 @@
         </a> 
       </p>
     </td>
-</table>
-
   </tr>
 </table>
+
 <h3 align="left">GitHub Stats</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-senapati&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh8434&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnab-senapati&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarsh8434&show_icons=true&locale=en" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-senapati&" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh8434&" />
 </p>
